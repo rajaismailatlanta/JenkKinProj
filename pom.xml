@@ -175,7 +175,7 @@
    		<groupId>com.aventstack</groupId>
    		<artifactId>extentreports</artifactId>
    		<version>5.1.2</version>
-   		<scope>test</scope>
+   		<scope>compile</scope>
    	</dependency>
    	<dependency>
     	<groupId>org.apache.logging.log4j</groupId>
