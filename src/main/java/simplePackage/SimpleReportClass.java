@@ -70,7 +70,7 @@ public class SimpleReportClass {
 	
 	@AfterMethod(alwaysRun=true)
 	public void tearDown() {
-		System.out.println("Hi. This is github - jenkins webhook trigger testing");
+		System.out.println("Hi. This is a message to test github - jenkins webhook trigger");
 		
 		System.out.println("Closing the Webdriver.");
 		System.out.println("=======================");
