@@ -32,27 +32,26 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-support-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-support-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-java-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-java-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-remote-driver-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-remote-driver-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/Downloads/extentreports-5.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-chrome-driver-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-chrome-driver-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-api-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-api-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-manager-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-manager-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-chromium-driver-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-chromium-driver-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-edge-driver-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-edge-driver-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-firefox-driver-4.34.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/selenium-firefox-driver-4.34.0-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/guava-33.4.8-jre.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Raja/eclipse/guava-33.4.8-jre-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-support-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-support-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-java-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-java-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-remote-driver-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-remote-driver-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-chrome-driver-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-chrome-driver-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-api-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-api-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-manager-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-manager-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-chromium-driver-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-chromium-driver-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-edge-driver-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-edge-driver-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-firefox-driver-4.34.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/selenium-firefox-driver-4.34.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/guava-33.4.8-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Raja/eclipse/guava-33.4.8-jre-sources.jar"/>
 	<classpathentry kind="src" path="target/generated-sources/annotations">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -64,10 +63,12 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Raja/Downloads/extentreports-5.1.2 (1).jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
